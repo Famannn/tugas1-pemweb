@@ -1,0 +1,35 @@
+body{
+    background-image: url("sport-51.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    }
+header{
+text-align: center;
+}
+table{
+border: solid 1pt black;
+border-collapse: collapse;
+margin-left: 200px;
+}
+td{
+border: solid 1pt black;
+background-color: navy;
+color: white;
+}
+tr{
+border: solid 1pt black;
+}
+th{
+background-color:deepskyblue;
+border: solid 1pt black;
+color: white;
+}
+footer{
+font-weight: bold;
+color: white;
+background-color: gray;
+border-radius: 20pt;
+margin-left: 500px;
+margin-right: 500px;
+}
